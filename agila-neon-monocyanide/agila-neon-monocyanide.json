@@ -1,0 +1,23 @@
+{
+  "name": "Agila Neon Monocyanide",
+  "background": "#080D12",
+  "foreground": "#F2F2F2",
+
+  "black": "#000000",
+  "blue": "#36A9EF",
+  "cyan": "#66D9EF",
+  "green": "#AEE837",
+  "purple": "#BE84FF",
+  "red": "#FF4083",
+  "white": "#F2F2F2",
+  "yellow": "#E6DB74",
+
+  "brightBlack": "#222222",
+  "brightBlue": "#5EBAF2",
+  "brightCyan": "#84E0F2",
+  "brightGreen": "#BEEC5F",
+  "brightPurple": "#CB9CFF",
+  "brightRed": "#FE6D9B",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#EBE28F"
+}
